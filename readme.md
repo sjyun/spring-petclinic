@@ -1,3 +1,4 @@
+[![Build Status](https://snap-ci.com/sjyun/spring-petclinic/branch/master/build_image)](https://snap-ci.com/sjyun/spring-petclinic/branch/master)
 Gradle with Spring petClinic Sample Application
 
 This tutorial forked from Spring-project/spring-petClinic
