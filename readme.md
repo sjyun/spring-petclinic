@@ -4,5 +4,5 @@ This tutorial forked from Spring-project/spring-petClinic
 
 ### Running petclinic locally
 
-   git clone https://github.com/sjyun/spring-petclinic
-	 gradlew jettyRun
+  1. git clone https://github.com/sjyun/spring-petclinic
+	2. gradlew jettyRun
